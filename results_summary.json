@@ -1,0 +1,22 @@
+{
+  "dataset": {
+    "num_languages": 23,
+    "train_size": 22080,
+    "val_size": 2760,
+    "test_size": 2760
+  },
+  "validation_metrics": {
+    "accuracy": 0.9322463768115942,
+    "micro_f1": 0.9322463768115942,
+    "macro_f1": 0.9268936681667618,
+    "macro_precision": 0.9382047783038803,
+    "macro_recall": 0.9322463768115866
+  },
+  "test_metrics": {
+    "accuracy": 0.9322463768115942,
+    "micro_f1": 0.9322463768115942,
+    "macro_f1": 0.9277384663370473,
+    "macro_precision": 0.9361567882741808,
+    "macro_recall": 0.9322463768115866
+  }
+}
